@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm currently working at Enou Development.<br>🏫 I'm currently a student in Vietnam.<br>📚 I'm currently studying Machine Learning.
+💻 I'm currently working at Enou Development.<br>🏫 I'm currently a student in Vietnam.<br>📚 I'm currently studying Machine Learning.<br>🔒 I mainly work in private repositories.
 
 
 ## 🌐 Socials:
